@@ -1,3 +1,3 @@
 # hello-world
 
-Front-End Developper
+Front-End Developper Freelance
